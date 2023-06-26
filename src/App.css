@@ -1,0 +1,11 @@
+select.form-select.custom-select-color option:checked {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Переопределение стилей Bootstrap для выпадающего списка */
+select.form-select.custom-select-color {
+  background-color: #f8f9fa;
+  color: #000000;
+  border-color: #ced4da;
+}
